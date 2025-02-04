@@ -1,1 +1,13 @@
+Python ::
+General Introduction:
+Easy to learn
+Powerful Libraries: Pandas(for data manipulation) ,Numpy(for numerical computation) and Matplotlib(for Data Visualisation)
+Versatility : Python can be used for various tasks, from data analysis and machine learning to web development and automation
 
+Jupyter:(,installing anaconda for running Jupyter files)
+
+
+
+Introduction to code:
+to print
+  print("hello world")
